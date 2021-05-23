@@ -10,5 +10,5 @@ We had never tried game dev. Game dev requires maths. In web dev, we have never 
 We are proud that we made a game on the web. There are very few games available on the internet which reduce stress and uplifts emotions.  
 ## What we learned
 We have never tried game dev, not even the `Rhino chrome` 😂. Understanding the coordinates and making it was hectic but it was fruitful for sure.
-## What's next for Veality
+## What's next for OceanOfPositivity
 We are looking forward to making it multi-platform like in android, iOS, and Mac/Windows. Also, we are really looking forward to taking the graphics next level and making it a `3d` game.
