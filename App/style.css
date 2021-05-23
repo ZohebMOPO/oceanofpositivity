@@ -14,7 +14,7 @@ body {
   width: 1000px;
   height: 500px;
   border: 2px solid black;
-  background-image: url(/src/ocean.jpg);
+  background-image: url('https://i.postimg.cc/7h8M0yJg/ocean.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
