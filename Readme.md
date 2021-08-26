@@ -1,5 +1,7 @@
 ## Inspiration
 All my childhood I have played varieties of games. Games that uplift your emotions and take all the heaviness of your mind
+## Team Members
+This project was created by Abhinav Gupta and Zoheb Khan.
 ## What it does
 The game interface contains various bubbles and animals. The main avatar is the fish who drinks all the bubbles in which `positive words` are written. This leads to an increase in the score.
 ## How we built it
